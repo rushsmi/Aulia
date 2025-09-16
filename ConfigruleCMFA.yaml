@@ -32,7 +32,6 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-proxies:
   - name: (rush55)
     server: ava.game.naver.com
     port: 443
@@ -134,4 +133,5 @@ rule-providers:
     type: file
     behavior: domain
     path: ./block.yaml  
+
 
